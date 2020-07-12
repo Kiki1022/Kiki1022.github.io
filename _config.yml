@@ -1,11 +1,11 @@
 # Site settings
-author: Kinnari Shah
-title: 
+author: Kinnari
+title: My blog
 header-img: img/home-bg.png
 email: kinnari1022@yahoo.com
-copyright_name: Kinnari Shah
+copyright_name: Kinnari
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey Through Coding School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Kiki1022
