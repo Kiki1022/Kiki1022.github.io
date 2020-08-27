@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Lipstick Reader Gem"
-date:       2020-08-27 03:34:03 +0000
+date:       2020-08-26 23:34:04 -0400
 permalink:  the_lipstick_reader_gem
 ---
 
@@ -13,5 +13,4 @@ Things brings me to how I came up with the idea for my CLI project. When I saw t
 
 Imagine how an app like this would make it easier for makeup artists (like me) who are approached by clients with specific preferences ro wanted to know about all the brands available for them to choose from. I wouldn't have to run and hide anymore!
 
-The clients would love this kind of app as well. It can give them more freedom to explore on their own and order the products their choice. Now I invite you to try out the app for yourself here below!
-[https://github.com/Kiki1022/kshah_cli_project.git]
+The clients would love this kind of app as well. It can give them more freedom to explore on their own and order the products their choice. Now I invite you to try out the app for yourself!
