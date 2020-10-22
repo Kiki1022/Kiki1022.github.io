@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Beautify Me "
-date:       2020-10-22 17:47:09 +0000
+date:       2020-10-22 13:47:10 -0400
 permalink:  beautify_me
 ---
 
