@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Ternary Operators `( ? : )`"
+title:      "Ternary Operators ( ? : )"
 date:       2021-04-27 18:06:01 -0400
 permalink:  ternary_operators
 ---
@@ -21,7 +21,9 @@ else
 
 A ternary statement can bring this whole code onto one line with the following format:
 
-```conditional ? action_if_true : action_if_false```
+```
+conditional ? action_if_true : action_if_false
+```
 
 One of my first favorite things about ternary operator is that it is just easy on the eyes! Left to right, just like reading a sentence! A regarular ``` if/else``` statement may require a warm up exercise for the poor eyes…left to right over and over in a downward motion and still digesting the logic! 
 
