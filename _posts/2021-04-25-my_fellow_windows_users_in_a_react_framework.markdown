@@ -18,6 +18,7 @@ Now here we are…to kill a ghost server on a Windows in a React App type this i
 																																			 
 
 For example, I am currently running a localhost:3000 that I need to kill so I can start a new server. In the terminal I will type:
+
 																											                        ```
 																																							npx kill-port 3000
 																																							````
