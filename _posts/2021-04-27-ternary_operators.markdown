@@ -26,7 +26,7 @@ A ternary statement can bring this whole code onto one line with the following f
 conditional ? action_if_true : action_if_false
 ```
 
-One of my first favorite things about ternary operator is that it is just easy on the eyes! Left to right, just like reading a sentence! A regarular ``` if/else``` statement may require a warm up exercise for the poor eyes…left to right over and over in a downward motion and still digesting the logic! 
+One of my first favorite things about ternary operator is that it is just easy on the eyes! Left to right, just like reading a sentence! A regular ``` if/else``` statement may require a warm up exercise for the poor eyes…left to right over and over in a downward motion and still digesting the logic! 
 
 The ternary operorator is excellent for ``` if/else``` statements, however if you do have an ``` else if``` in your code however, ternary will not be the best option for you. 
 
@@ -39,9 +39,8 @@ In my ``` MealCard.js``` Component, I have this line in my return value:
 
 What is ``` meal```? If you ``` console.log(meal)``` in this file, you will see it is a meal object, below is an example:
 
-```
-{id: 1, img_src: "https://order.superica.com/superica/images/superica/menuCategories/1400_1408_10.png?id=10", location: "Superica Buckhead", caption: "The best enchiladas!!🤤"}
-```
+
+```{id: 1, img_src: "https://order.superica.com/superica/images/superica/menuCategories/1400_1408_10.png?id=10", location: "Superica Buckhead", caption: "The best enchiladas!!🤤"}```
 
 This line of code is saying, if ```meal``` is true? Render ```meal.location``` else ```null```, which means the absence of value. 
 
