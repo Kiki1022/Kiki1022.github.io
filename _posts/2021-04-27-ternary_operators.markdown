@@ -10,10 +10,10 @@ Upon completion my final portfolio project, My Plate, a React-Redux web applicat
 
 Let’s review what a ternary operator is.  My definition is it’s a simplified ` if/else` statement. But a more technical way to define it is that it is a comparison operator used in the context of if and else statements. 
 
-A regular ` if/else` statement works like this:
+A regular `if/else` statement works like this:
 
 ```
-If  conditional?
+if  conditional?
 	action_if_true
 else
 	action_if_false
