@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Ternary Operators ```( ? : )```"
+title:      "Ternary Operators `( ? : )`"
 date:       2021-04-27 18:06:01 -0400
 permalink:  ternary_operators
 ---
