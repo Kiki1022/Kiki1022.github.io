@@ -1,11 +1,11 @@
 ---
 layout: post
-title:      "Ternary Operators ( ? : )"
+title:      "Ternary Operators `( ? : )`"
 date:       2021-04-27 18:06:01 -0400
 permalink:  ternary_operators
 ---
 
-Upon completion my final portfolio project, My Plate, a React-Redux web application with a Rails-API backend, I really enjoy working with ternary operators again. I was introduced to them during the first module of our curriculum. Maybe this blog is to convince you to appreciate these simple little things as well! So..why ternary operators` ```( ? : )````?
+Upon completion my final portfolio project, My Plate, a React-Redux web application with a Rails-API backend, I really enjoy working with ternary operators again. I was introduced to them during the first module of our curriculum. Maybe this blog is to convince you to appreciate these simple little things as well! So..why ternary operators `( ? : )` ?
 
 
 Let’s review what a ternary operator is.  My definition is it’s a simplified ` if/else` statement. But a more technical way to define it is that it is a comparison operator used in the context of if and else statements. 
